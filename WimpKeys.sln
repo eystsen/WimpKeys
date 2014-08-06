@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WimpKeys", "WimpKeys\WimpKeys.csproj", "{3F1B1908-7714-4479-8573-A08983664C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WimpKeys.Test", "WimpKeys.Test\WimpKeys.Test.csproj", "{3D0B4CE1-FC15-4796-A3ED-91F354C5AAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1B1908-7714-4479-8573-A08983664C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1B1908-7714-4479-8573-A08983664C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1B1908-7714-4479-8573-A08983664C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1B1908-7714-4479-8573-A08983664C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0B4CE1-FC15-4796-A3ED-91F354C5AAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0B4CE1-FC15-4796-A3ED-91F354C5AAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0B4CE1-FC15-4796-A3ED-91F354C5AAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0B4CE1-FC15-4796-A3ED-91F354C5AAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
